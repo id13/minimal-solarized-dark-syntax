@@ -1,7 +1,7 @@
 {
   "name": "minimal-solarized-dark-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A minimal dark syntax theme using the solarized colors, forked from atom's solarized-dark-syntax",
   "repository": "https://github.com/id13/minimal-solarized-dark-syntax",
   "license": "MIT",
